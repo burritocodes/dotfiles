@@ -1,0 +1,8 @@
+[user]
+	name = Brian Bommarito
+	email = me@burrito.codes
+	signingkey = BD60B99B32378FB796E6BA2788D22F6D61C6A26B
+[commit]
+	gpgSign = true
+[alias]
+	c = commit -s
